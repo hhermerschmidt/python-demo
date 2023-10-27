@@ -6,4 +6,9 @@ def main():
 def read_data():
     pass
 
-def plot
+def plot():
+    pass
+
+if __name__ == "__main__":
+
+    print("Hello World!")
